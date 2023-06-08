@@ -70,12 +70,13 @@ include_once("Header.php");
             </div>
         </div>
         <div class="card right" style="width: 20rem;">
-            <img src="Images/Staff/Bram.png" class="card-img-top" alt="...">
+            <img src="Images/Staff/Jul.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Bram Ottosen</h5>
-                <p>Staff, Developer</p>
+                <h5 class="card-title">Jul de Hond</h5>
+                <p>Management</p>
             </div>
         </div>
+
         <div class="card left" style="width: 20rem;">
             <img src="Images/Staff/Onur.png" class="card-img-top" alt="...">
             <div class="card-body">
@@ -87,35 +88,36 @@ include_once("Header.php");
             <img src="Images/Staff/Fluit.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Fluit</h5>
-                <p>Staff</p>
+                <p>Moderator</p>
             </div>
         </div>
+
         <div class="card left" style="width: 20rem;">
-            <img src="Images/Staff/Jul.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Jul de Hond</h5>
-                <p>Staff</p>
-            </div>
-        </div>
-        <div class="card right" style="width: 20rem;">
             <img src="Images/Staff/Kenneth.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Kenneth Moerkerke</h5>
-                <p>Staff</p>
+                <p>moderator</p>
             </div>
         </div>
-        <div class="card left" style="width: 20rem;">
+        <div class="card right" style="width: 20rem;">
             <img src="Images/Staff/Kenny.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Kenny Dakanie</h5>
-                <p>Staff</p>
+                <p>Moderator</p>
             </div>
         </div>
-        <div class="card right bottom" style="width: 20rem;">
+        <div class="card left" style="width: 20rem;">
             <img src="Images/Staff/Mira.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Mira Leerze</h5>
-                <p>Staff</p>
+                <p>Moderator</p>
+            </div>
+        </div>
+        <div class="card right bottom" style="width: 20rem;">
+            <img src="Images/Staff/Bram.png" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Bram Ottosen</h5>
+                <p>Staff, Developer</p>
             </div>
         </div>
         <div class="card left bottom" style="width: 20rem;">
@@ -131,7 +133,7 @@ include_once("Header.php");
 
     <footer>
         <i class='bx bx-copyright'> 2023 Bella Vita RP</i>
-        <p>Created by BKlashorst, Hoop</p>
+        <p>Created by <a class="linkB" target="__blank" href="https://bramvdklashorst.com/">BKlashorst<a />, Hoop</p>
     </footer>
 </body>
 

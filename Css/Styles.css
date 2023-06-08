@@ -8,6 +8,7 @@ body{
   display: flex;
   flex-direction: column;
   background-color: #eeeded!important;
+  position: relative;
 }
 
 /* navigatie */
@@ -92,7 +93,9 @@ h2{
   width: 100%;
 }
 .discord-img {
-  margin: 2px;
+  margin-left: 0.3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
   width: 40%;
 }
 .discord-text {
@@ -104,9 +107,12 @@ h2{
   color: #fac020;
 }
 .discord {
-  font-family: "Montserrat", sans-serif;
-  margin: 5% 10%;
-  border: 3px solid #ff6600;
+    font-family: "Montserrat", sans-serif;
+  margin: auto!important;
+  margin-top: 5%!important;
+  margin-bottom: 5%!important;
+  border: 2px solid #ff6600;
+  width: 90%!important;
 }
 .discord-knop {
   float: right;
@@ -131,8 +137,8 @@ h2{
 .socials{
   margin-left: 25%;
   margin-right: 25%;
-  margin-bottom: 5%;
-  margin-top: 3%;
+  margin-bottom: 2%;
+  margin-top: 1%;
 }
 .Title{
   font-family: "Montserrat", sans-serif;
@@ -188,7 +194,10 @@ h2{
   font-family: "Montserrat", sans-serif;
 }
 
-
+.linkB{
+  text-decoration: none!important;
+  color: #ffffff!important;
+}
 
 .icons{
   margin-top: 1%;
@@ -197,4 +206,69 @@ h2{
 
 #pdf{
   height: 91.8vh;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #535353;
+}
+
+@media screen and (max-width:700px) {
+  .info{
+margin-top: 10%;
+}
+.image {
+  height: 15%;
+}
+.discord-img {
+  margin: 0%;
+  margin-top: 3%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.discord-text {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 4%;
+  font-size: 100%;
+  color: #fac020;
+}
+.discord {  
+  font-family: "Montserrat", sans-serif;
+  margin: auto!important;
+  margin-top: 10%!important;
+  margin-bottom: 10%!important;
+  border: 2px solid #ff6600;
+  width: 90%!important;
+}
+.discord-knop {
+  float: none;
+  width: 40%;
+  margin: auto;
+  margin-bottom: 2%;
+  display: flex!important;
+  justify-content: center;
+}
+.dc-icon {
+  font-size: 1.5rem;
+}
+.dc-text{
+  font-size: 1.5rem;
+  margin-top: -1%;
+}
+.socials{
+  margin-bottom: 20%;
+}
+.left{
+  float: right;
+  margin-right: 15%;
+  margin-top: 5%;
+}
+.right{
+  float: right;
+  margin-right: 15%;
+  margin-top: 5%;
+}
 }

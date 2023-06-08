@@ -7,15 +7,15 @@ include_once("Header.php");
 </head>
 
 <body>
-    <div><img class="image" src="Images/image.png" alt=""></div>
+    <div><img class="image" src="Images/bbit.png" alt=""></div>
 
     <div class="container-fluid info">
         <h1>Over ons</h1>
         <h2>Lange tijd hebben we op steden gespeeld en geholpen, met veel plezier en genot. Maar er miste iets, we konden onszelf er niet volledig in kwijt. Na hier een tijd over te sparren besloten we dat we het zelf wilde creëren, een eigen stad, die alles heeft wat wij miste, een stad waar geluisterd wordt naar bewoners en hun suggesties, waar niks te gek is. Een stad waar iedereen die wij tot nu toe hebben ontmoet, en die als familie voor ons zijn, met ons wat kan opbouwen. Met veel stress, maar ook veel liefde, is daar uiteindelijk Bella Vita uitgekomen. We hopen dat jullie er net zo gelukkig van worden als wij.</h2>
     </div>
 
-    <div class="container-fluid">
-        <div class="discord">
+    <div class="container-fluid discord">
+        <div>
             <img class="discord-img" src="Images/file.png" alt="">
             <p class="discord-text">Wil jij deel uit maken van Bella Vita RP? </br>join dan nu!</p>
             <button type="button" class="btn discord-knop">
@@ -27,8 +27,8 @@ include_once("Header.php");
         </div>
     </div>
 
-    <div class="container-fluid">
-        <div class="socials">
+    <div class="container-fluid socials">
+        <div class="">
             <span class="Title"> Socials</span>
             <a href="https://www.tiktok.com/@bellavitaroleplay" target="_blank"><img class="Tiktok" src="Images/tiktok.png" alt=""></a>
             <!-- <a href="#" target="_blank"><img class="Instagram" src="Images/insta.png" alt=""></a> -->
@@ -37,7 +37,7 @@ include_once("Header.php");
 
     <footer>
         <i class='bx bx-copyright'> 2023 Bella Vita RP</i>
-        <p>Created by BKlashorst, Hoop</p>
+        <p>Created by <a class="linkB" target="__blank" href="https://bramvdklashorst.com/">BKlashorst<a />, Hoop</p>
     </footer>
 </body>
 
