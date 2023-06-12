@@ -66,7 +66,7 @@ include_once("Header.php");
             <img src="Images/Staff/KD Sanchesz.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Joey 'KD' Sanchesz</h5>
-                <p>Management, Developer</p>
+                <p>Management</p>
             </div>
         </div>
         <div class="card right" style="width: 20rem;">
@@ -81,7 +81,7 @@ include_once("Header.php");
             <img src="Images/Staff/Onur.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Onur</h5>
-                <p>Management, Developer</p>
+                <p>Management</p>
             </div>
         </div>
         <div class="card right" style="width: 20rem;">
@@ -96,7 +96,7 @@ include_once("Header.php");
             <img src="Images/Staff/Kenneth.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Kenneth Moerkerke</h5>
-                <p>moderator</p>
+                <p>Moderator</p>
             </div>
         </div>
         <div class="card right" style="width: 20rem;">
@@ -113,7 +113,7 @@ include_once("Header.php");
                 <p>Moderator</p>
             </div>
         </div>
-        <div class="card right bottom" style="width: 20rem;">
+        <div class="card right" style="width: 20rem;">
             <img src="Images/Staff/Bram.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Bram Ottosen</h5>
