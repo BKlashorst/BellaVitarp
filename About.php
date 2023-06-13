@@ -45,7 +45,7 @@ include_once("Header.php");
             <img src="Images/Staff/Ozzie.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Ozzie Sanchesz</h5>
-                <p>Bestuur</p>
+                <p>Management</p>
             </div>
         </div>
         <div class="card left" style="width: 20rem;">
