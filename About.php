@@ -44,7 +44,7 @@ include_once("Header.php");
         <div class="card right" style="width: 20rem;">
             <img src="Images/Staff/Ozzie.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Ozzie Sanchesz</h5>
+                <h5 class="card-title">BOZE_OZZIE_010</h5>
                 <p>Management</p>
             </div>
         </div>
@@ -84,25 +84,11 @@ include_once("Header.php");
                 <p>Management</p>
             </div>
         </div>
-        <div class="card right" style="width: 20rem;">
-            <img src="Images/Staff/Fluit.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Fluit</h5>
-                <p>Moderator</p>
-            </div>
-        </div>
 
-        <div class="card left" style="width: 20rem;">
+        <div class="card right" style="width: 20rem;">
             <img src="Images/Staff/Kenneth.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Kenneth Moerkerke</h5>
-                <p>Moderator</p>
-            </div>
-        </div>
-        <div class="card right" style="width: 20rem;">
-            <img src="Images/Staff/Kenny.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">Kenny Dakanie</h5>
                 <p>Moderator</p>
             </div>
         </div>
@@ -113,7 +99,16 @@ include_once("Header.php");
                 <p>Moderator</p>
             </div>
         </div>
+
         <div class="card right" style="width: 20rem;">
+            <img src="Images/Staff/Kenny.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">Kenny Dakanie</h5>
+                <p>Staff</p>
+            </div>
+        </div>
+
+        <div class="card left" style="width: 20rem;">
             <img src="Images/Staff/Bram.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Bram Ottosen</h5>

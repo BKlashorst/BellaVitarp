@@ -56,6 +56,9 @@ header {
   padding: 9px 25px;
   border: none;
   border-radius: 50px;
+      width: 100%;
+    display: flex;
+    margin-bottom: 1%;
 }
 
 .nav__links li a:hover {
@@ -194,7 +197,7 @@ h2{
 }
 
 .linkB{
-  text-decoration: none!important;
+  /* text-decoration: none!important; */
   color: #ffffff!important;
 }
 
@@ -283,5 +286,16 @@ margin-top: 10%;
 }
 .bottom{
   margin-bottom: 25%;
+}
+
+.nav__links li a {
+  transition: color 0.3s ease 0s;
+  background-color: #fac020;
+  padding: 9px 25px;
+  border: none;
+  border-radius: 50px;
+      width: 100%;
+    display: flex;
+    margin-bottom: 1%;
 }
 }

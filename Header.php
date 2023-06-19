@@ -17,8 +17,8 @@
 
 <body>
     <header>
-    <nav class="navbar navbar-expand-md">
-        <!-- <div class="container-fluid"> -->
+        <nav class="navbar navbar-expand-md">
+            <!-- <div class="container-fluid"> -->
             <a class="navbar-brand logo" href="#"><img class="logo" src="Images/Logo.png" alt="logo"></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -28,12 +28,13 @@
                     <li><a class="cta" href="../"><i class='bx bx-home'></i></a></li>
                     <li><a class="cta" href="APV">APV</a></li>
                     <li><a class="cta" href="APV_Onderwereld">APV Onderwereld</a></li>
+                    <li><a class="cta" href="Strafwetboek">Wetboek</a></li>
                     <li><a class="cta" href="https://discord.gg/bellavitarp" target="_blank">Discord</a></li>
                     <li><a class="cta" href="About">Staffteam</a></li>
                 </ul>
             </div>
-        </div>
-    </nav>
+            </div>
+        </nav>
     </header>
 </body>
 
